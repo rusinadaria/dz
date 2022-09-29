@@ -6,7 +6,7 @@
 1. Находим выборочное среднее, использую данную формулу :
 <br/>
 
-![image](https://user-images.githubusercontent.com/102412830/191520686-e2925cc2-cc1b-486e-b611-3d41d50265a5.png)
+![image](https://user-images.githubusercontent.com/112616583/192827114-382e182a-ce25-499b-a6af-2118e5a26859.png)
 <br/>
 xi - варианты выборки
 <br/>
@@ -15,6 +15,7 @@ ni - частота выборки
 n - объем выборки
 
 <br/>
+
 ![image](https://user-images.githubusercontent.com/112808317/192924018-59ee5dfb-b1ab-4bf1-8ec8-f3f0b34b7c76.png)
 
 2.Мода - самый часто встречающийся вариант/ы выборки.
