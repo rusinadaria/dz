@@ -15,6 +15,8 @@ ni - частота выборки
 n - объем выборки
 
 <br/>
+![image](https://user-images.githubusercontent.com/112808317/192924018-59ee5dfb-b1ab-4bf1-8ec8-f3f0b34b7c76.png)
+
 2.Мода - самый часто встречающийся вариант/ы выборки.
 <br/>
 <br/>
@@ -45,7 +47,7 @@ n - объем выборки
 7.Размах - это разность между наибольшим и наименьшим вариантом.
 <br/>
 <br/>
-![image](https://user-images.githubusercontent.com/112808317/192844045-a21e529d-790e-412a-9079-080f825cca50.png)
+![image](https://user-images.githubusercontent.com/112808317/192924080-7040bd06-02eb-47b3-ab81-1bc857d28b76.png)
 <br/>
 
 
@@ -66,4 +68,5 @@ n - объем выборки
 <br/>
 В моем случае, ответ - да:
 <br/>
-![image](https://user-images.githubusercontent.com/112808317/192845513-7f0ae218-3e07-40cd-8f49-79eb14a08a32.png)
+![image](https://user-images.githubusercontent.com/112808317/192924124-2f9690ec-d80f-4142-a76f-0e9d2b95b73e.png)
+
